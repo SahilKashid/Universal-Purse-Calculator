@@ -248,8 +248,6 @@ const App: React.FC = () => {
         <div className="mt-2 flex justify-center items-center gap-2 text-[10px] text-slate-600 font-bold uppercase tracking-widest">
           <span>Real-time Math</span>
           <span>•</span>
-          <span>AI Scouting</span>
-          <span>•</span>
           <span>Purse Tracking</span>
         </div>
       </footer>
